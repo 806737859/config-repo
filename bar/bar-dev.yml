@@ -3,3 +3,4 @@ myConfig:
     label: master
     profile: dev
     gitRepository: default
+    searchPath: bar
