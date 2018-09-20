@@ -1,0 +1,5 @@
+myConfig: 
+    application: qwe
+    label: master
+    profile: default
+    gitRepository: default

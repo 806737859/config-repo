@@ -1,0 +1,5 @@
+myConfig: 
+    application: asd
+    label: master
+    profile: zzz
+    gitRepository: default
