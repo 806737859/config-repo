@@ -1,1 +1,1 @@
-myConfig: new String("{application:application,label:master,profile:dev,git-repository:default}")
+myConfig: application=application、label=master、profile=dev、git-repository=default
