@@ -1,0 +1,6 @@
+myConfig: 
+    application: foobar
+    label: master
+    profile: pro
+    gitRepository: default
+    searchPath: foo
