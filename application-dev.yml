@@ -2,4 +2,4 @@ myConfig:
     application: application
     label: master
     profile: dev
-    git-repository: default
+    gitRepository: default
