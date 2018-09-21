@@ -1,0 +1,5 @@
+myConfig: 
+    application: testencrypt
+    label: master
+    profile: pro
+    gitRepository: default
