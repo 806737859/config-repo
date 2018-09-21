@@ -3,3 +3,9 @@ myConfig:
     label: master
     profile: default
     gitRepository: default
+
+# 用于测试属性加密
+spring:
+  datasource:
+    username: dbuser
+    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
