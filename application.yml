@@ -8,4 +8,4 @@ myConfig:
 spring:
   datasource:
     username: dbuser
-    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+    password: '{kkk}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
