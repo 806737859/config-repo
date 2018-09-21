@@ -3,3 +3,4 @@ myConfig:
     label: master
     profile: pro
     gitRepository: default
+password: '{cipher}5a8b3b63d30eba2cc4ed4167825acbd6394d191017ee9a9f8b52eadfee0b6cf1'
